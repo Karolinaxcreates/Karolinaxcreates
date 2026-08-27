@@ -8,19 +8,17 @@ _**Some stuff about me, to know me better!**_
   - __.hobbies:__
     - learning computer science 
     - drawing
-    - playing an instrument
-    - watching youtube videos how people download on a vm some computer viruses(weird I know, sorry)
+    - watching youtube videos on how people download computer viruses on virtual machines (kinda weird, I know)
   - __.games:__
     - minecraft
     - genshin impact
     - roblox
   - __.movies:__
     - Your name
-    - Weathering with you
-    - Spirited away
     - Parasite
     - Princess mononoke
-  - __.food:__
-    - pho bo
-
+  - __.reasons to learn computer science:__
+    - to be more advanced, when it comes to the usage of elektronics
+    - making own websites
+    - learning new computer language
 That's all , wish you a nice day/night! :))
