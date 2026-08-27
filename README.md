@@ -1,6 +1,8 @@
+
 ## Hi there 👋
-#Thank you for visiting my Page! I feel honored to meet you :)). 
-```
+# Thank you for visiting my Page! I feel honored to meet you :)). 
+
+>
 _**Some stuff about me, to know me better!**_
 
 *My favorite*...:
