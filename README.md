@@ -1,25 +1,26 @@
 
 ## Hi there 👋
-### Thank you for visiting my Page! I feel honored to meet you :)). 
+### Thank you for visiting my Page! Nice to meet you :)). 
 
->
 _**Some stuff about me, to know me better!**_
 
 - *My favorite*...
   - __.hobbies:__
-    - learning informatics
+    - learning computer science 
     - drawing
     - playing an instrument
-    - watching youtube videos how people download on a vm some Computer viruses(weird I know, sorry)
+    - watching youtube videos how people download on a vm some computer viruses(weird I know, sorry)
   - __.games:__
-    - minecraft, genshin impact, roblox
-  - __.movie:__
-    - your name
-    - weathering with you
-    - spirited away
-    - parasite
-    - princess mononoke
+    - minecraft
+    - genshin impact
+    - roblox
+  - __.movies:__
+    - Your name
+    - Weathering with you
+    - Spirited away
+    - Parasite
+    - Princess mononoke
   - __.food:__
     - pho bo
 
-That's all , wish you a nice day/night! :)
+That's all , wish you a nice day/night! :))
